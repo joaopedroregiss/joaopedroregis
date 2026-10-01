@@ -88,8 +88,6 @@ Calculadora de circuitos elétricos desenvolvida em Java.
 
 ---
 
-📊 GitHub Stats
-
 📊 GitHub
 
 <div align="center">

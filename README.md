@@ -1,47 +1,80 @@
-# 👨🏽‍💻 João Pedro
-
-**`Desenvolvedora Back-End`**
-
-<p align="left">
-    <a href="https://github.com/joaopedroregiss?tab=followers">
-        <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/joaopedroregiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-    </a>
-    <a href="https://github.com/joaopedroregiss?tab=repositories">
-        <img alt="Repositórios" title="Meus repositórios" src="https://custom-icon-badges.demolab.com/badge/Repos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+<div align="center">
+# 👋 João Pedro
+### `Backend Developer` · Java · Spring Boot · APIs
+<p>
+  <i>Construindo aplicações backend com foco em código limpo, arquitetura e soluções escaláveis.</i>
 </p>
-
-
-Desenvolvedor focado em backend, com interesse em construção de APIs, arquitetura de software, bancos de dados e infraestrutura. Atualmente direcionando meus estudos para o ecossistema Java + Spring Boot, buscando desenvolver aplicações bem estruturadas, seguras e escaláveis.
-
-Tenho interesse em Java, Spring Boot, PostgreSQL, Docker, Linux, AWS e desenvolvimento de APIs REST, além de explorar tecnologias modernas para integração entre sistemas.
-
+<br>
+<a href="https://github.com/joaopedroregiss">
+  <img src="https://img.shields.io/badge/GitHub-joaopedroregiss-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+</div>
 ---
-
-### ☕ Linguagens e Tecnologias
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TanStack](https://img.shields.io/badge/tanstack-%23EF4444.svg?style=for-the-badge&logo=reactquery&logoColor=white) ![Convex](https://img.shields.io/badge/convex-%23F3694C.svg?style=for-the-badge&logo=convex&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+## 🧑‍💻 Sobre mim
+Sou **João Pedro**, desenvolvedor focado em **Backend**.
+Atualmente direciono meus estudos para o ecossistema **Java + Spring Boot**, com interesse em construir APIs bem estruturadas, seguras e fáceis de manter.
+Também venho explorando **bancos de dados, Docker, Linux, AWS e arquitetura de software**, sempre buscando transformar conceitos em projetos práticos.
 ---
-
-### 📚 Atualmente estudando
-
-**Java**
-- Spring Boot
-- Spring Web
-- Spring Data JPA
-- Spring Security
-- REST APIs
-
-**Backend**
-- Arquitetura de Software
-- SOLID
-- Design Patterns
-- Testes Automatizados
-
-**Infraestrutura**
-- Docker
-- Linux
-- AWS
-   
+## ⚡ Tech Stack
+### ☕ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge">
+</p>
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge">
+</p>
+### 🐳 DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 ---
+## 🚀 Projeto em destaque
+### ⚡ Circuit Calculator
+Calculadora de circuitos elétricos desenvolvida em **Java**.
+- 🔌 Resistência por código de cores
+- ⚡ Lei de Ohm
+- 🔗 Circuitos em série e paralelo
+- 📐 Segunda Lei de Ohm
+<a href="https://github.com/joaopedroregiss/electrical-calculator">
+  <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+---
+## 📚 Atualmente estudando
+```text
+☕ Java
+🌱 Spring Boot
+🔐 Spring Security
+🗃️ Spring Data JPA
+🌐 REST APIs
+🏗️ Arquitetura de Software
+🧩 SOLID
+🧪 Testes Automatizados
+🐳 Docker
+🐧 Linux
+☁️ AWS
+
+⸻
+
+📊 GitHub Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopedroregiss&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroregiss&layout=compact&theme=tokyonight&hide_border=true">
+</div>
+
+⸻
+
+<div align="center">
+
+💻 Code. Learn. Build. Repeat.
+
+</div>
+```

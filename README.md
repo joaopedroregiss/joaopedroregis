@@ -1,7 +1,5 @@
 # 👨🏽‍💻 João Pedro
 
----
-
 **`Desenvolvedora Back-End`**
 
 <p align="left">

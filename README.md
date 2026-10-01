@@ -54,24 +54,6 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 ---
 
-🚀 Projeto em destaque
-
-⚡ Circuit Calculator
-
-Calculadora de circuitos elétricos desenvolvida em Java.
-
-* 🔌 Resistência por código de cores
-* ⚡ Lei de Ohm
-* 🔗 Circuitos em série e paralelo
-* 📐 Segunda Lei de Ohm
-
-<br>
-<a href="https://github.com/joaopedroregiss/electrical-calculator">
-  <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
-</a>
-
----
-
 📚 Atualmente estudando
 
 ☕ Java

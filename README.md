@@ -13,7 +13,7 @@ Backend Developer · Java · Spring Boot · APIs
 </a>
 </div>
 
-⸻
+---
 
 🧑‍💻 Sobre mim
 
@@ -23,7 +23,7 @@ Atualmente direciono meus estudos para o ecossistema Java + Spring Boot, com int
 
 Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de software, sempre buscando transformar conceitos em projetos práticos.
 
-⸻
+---
 
 ⚡ Tech Stack
 
@@ -52,7 +52,7 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-⸻
+---
 
 🚀 Projeto em destaque
 
@@ -70,7 +70,7 @@ Calculadora de circuitos elétricos desenvolvida em Java.
   <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
 </a>
 
-⸻
+---
 
 📚 Atualmente estudando
 
@@ -86,7 +86,7 @@ Calculadora de circuitos elétricos desenvolvida em Java.
 🐧 Linux
 ☁️ AWS
 
-⸻
+---
 
 📊 GitHub Stats
 
@@ -95,7 +95,7 @@ Calculadora de circuitos elétricos desenvolvida em Java.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroregiss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
-⸻
+---
 
 <div align="center">
 

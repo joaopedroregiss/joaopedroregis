@@ -90,9 +90,10 @@ Calculadora de circuitos elétricos desenvolvida em Java.
 
 📊 GitHub Stats
 
+📊 GitHub
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopedroregiss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroregiss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=joaopedroregiss&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" height="160">
 </div>
 
 ---

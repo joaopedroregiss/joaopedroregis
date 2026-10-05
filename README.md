@@ -15,7 +15,7 @@ Backend Developer · Java · Spring Boot · APIs
 
 ---
 
-🧑‍💻 Sobre mim
+**🧑‍💻 Sobre mim**
 
 Sou João Pedro, desenvolvedor focado em Backend.
 
@@ -58,7 +58,7 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 ---
 
-📚 Atualmente estudando
+**📚 Atualmente estudando**
 
 - ☕ Java
 - 🌱 Spring Boot
@@ -74,7 +74,7 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 ---
 
-📊 GitHub
+**📊 GitHub**
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaopedroregiss&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" height="160">

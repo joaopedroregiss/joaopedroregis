@@ -25,9 +25,11 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 ---
 
-⚡ Tech Stack
+**⚡ Tech Stack
+
 
 ☕ Backend
+
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -38,12 +40,14 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 🗄️ Database
 
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL">
 </p>
 
 🐳 DevOps & Tools
+
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -56,17 +60,17 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 📚 Atualmente estudando
 
-☕ Java
-🌱 Spring Boot
-🔐 Spring Security
-🗃️ Spring Data JPA
-🌐 REST APIs
-🏗️ Arquitetura de Software
-🧩 SOLID
-🧪 Testes Automatizados
-🐳 Docker
-🐧 Linux
-☁️ AWS
+- ☕ Java
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🗃️ Spring Data JPA
+- 🌐 REST APIs
+- 🏗️ Arquitetura de Software
+- 🧩 SOLID
+- 🧪 Testes Automatizados
+- 🐳 Docker
+- 🐧 Linux
+- ☁️ AWS
 
 ---
 

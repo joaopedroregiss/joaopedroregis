@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 João Pedro
+👋 João Pedro Regis
 
 Backend Developer · Java · Spring Boot · APIs
 

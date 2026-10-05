@@ -25,7 +25,7 @@ Também venho explorando bancos de dados, Docker, Linux, AWS e arquitetura de so
 
 ---
 
-***⚡ Tech Stack
+**⚡ Tech Stack**
 
 
 ☕ Backend
